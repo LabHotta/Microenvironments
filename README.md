@@ -1,10 +1,5 @@
 # Microenvironments
 
-This folder contains all the data and scripts used in Dantas et al. paper "Field microenvironments regulate crop diel transcript and metabolite rhythms".
+These are the final codes used to analyse data and generate figures. Dantas et al. paper "Field microenvironments regulate crop diel transcript and metabolite rhythms", now accepted at New Phytologist. https://doi.org/10.1111/nph.17650
 
-We have organized the files the following way:
-
-    Identification of rhythms - scripts used to identify rhythmic timecourses
-
-    Figures - scripts used to generate the Figures
-
+In the folder "01_identification_of _rhythms" is the code used to identify rhythms and their phases. In "02_figures" is the code used to generate the Figures. In "03_controls" is the code used for two control analyses asked by referees: one only using JTK_CYCLE, and one using maSigPro to identify different expression patterns.
